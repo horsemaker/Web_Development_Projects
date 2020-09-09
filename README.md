@@ -5,3 +5,4 @@ This is the list of projects in this repository:
 1. Portfolio Website (HTML, CSS)
 2. Expense Tracker (HTML, CSS, vanillaJS)
 3. Tic Tac Toe - Game (ReactJS)
+4. Wishlist App (ReactJS)
