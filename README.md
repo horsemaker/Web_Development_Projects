@@ -7,3 +7,5 @@ This is the list of projects in this repository:
 3. Breakout - Game (HTML, CSS, vanillaJS)
 4. Hangman - Game (HTML, CSS, vanillaJS)
 5. Portfolio Website II (HTML, CSS, vanillaJS)
+6. Custom Video Player (HTML, CSS, vanillaJS)
+7. Form Validator (HTML, CSS, JS)
