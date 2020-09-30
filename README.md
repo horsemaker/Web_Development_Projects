@@ -1,5 +1,5 @@
 ﻿# Web_Development_Projects
-This repository contains small projects related to web development made with vanillaJS, ReactJs, MeteorJs, etc.
+This repository contains small projects related to web development made with vanillaJS, ReactJs, etc.
 
 This is the list of projects in this repository:
 1. Portfolio Website I(HTML, CSS)
