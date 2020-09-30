@@ -9,3 +9,4 @@ This is the list of projects in this repository:
 5. Portfolio Website II (HTML, CSS, vanillaJS)
 6. Custom Video Player (HTML, CSS, vanillaJS)
 7. Form Validator (HTML, CSS, JS)
+8. Relaxer App (HTML, CSS, vanillaJS)
